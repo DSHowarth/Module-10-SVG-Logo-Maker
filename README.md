@@ -3,7 +3,9 @@
 ## Description
 
 This is a simple program that generates simple SVG logos for use in web applications. They're
-not that complex. But they're free!
+not that complex. But they're free! You can have an amazing logo like this one in minutes:
+
+Wow.
 
 ## Installation
 
