@@ -17,6 +17,8 @@ Navigate to the root directory,
 and run the program from the command line using ```node index.js```. 
 Answer the prompts, and enjoy your new logo!
 
+[Video demonstration of the running the program, generating a logo, and running svg validation tests](https://drive.google.com/file/d/1SbE25IzEOc_9OOUXU52cX8fxZrPpAmuO/view?usp=sharing)
+
 ## Technologies Used
 
 - JavaScript
